@@ -1,0 +1,6 @@
+onset	duration	sample	trial_type	response_time	stim_file	value	correct
+22.2800000000	n/a	22280	EyesClose1	0	n/a	n/a	0
+101.8450000000	n/a	101845	EyesOpen1	0	n/a	n/a	0
+178.9620000000	n/a	178962	EyesClose2	0	n/a	n/a	0
+256.4950000000	n/a	256495	EyesOpen2	0	n/a	n/a	0
+333.6420000000	n/a	333642	EndOfRest	0	n/a	n/a	0

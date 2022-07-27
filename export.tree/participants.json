@@ -1,0 +1,34 @@
+{
+  "participant_id": {
+    "LongName": "Participant identifier",
+    "Description": "Unique participant identifier"
+  },
+  "gender": {
+    "Description": "Sex of the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "age": {
+    "Description": "age of the participant",
+    "Units": "years"
+  },
+  "Handedness": {
+    "Description": "Handedness of participants",
+    "Levels": {
+      "Left": "Left-handed participant",
+      "Right": "Right-handed participant"
+    }
+  },
+  "TwinNo": {
+    "Description": "Pairs of the twin",
+    "Levels": {
+      "One": "1: Twin pair 1",
+      "Two": "2: Twin pair 2"
+    }
+  },
+  "FamilyNo": {
+    "Description": "Family number identifier. Participants with same family numbers are twin pairs from the same family"
+  }
+}
